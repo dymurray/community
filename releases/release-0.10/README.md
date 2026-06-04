@@ -16,3 +16,6 @@ The 0.10 release cycle is as follows:
 [Agent Driven Migrations (IDE)](https://github.com/konveyor/enhancements/pull/267)
 [Generic Provider Refactor](https://github.com/konveyor/enhancements/pull/262)
 [Kantra Subcommands Refactor](https://github.com/konveyor/enhancements/pull/247)
+[Crane Transform Multiple Plugins](https://github.com/konveyor/enhancements/pull/292)
+[Crane Multi-Stage Transform](https://github.com/konveyor/enhancements/pull/291)
+[Crane 2.0](https://github.com/konveyor/enhancements/pull/288)
